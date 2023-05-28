@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![BlueskyClouds’s github stats](https://github-readme-stats.vercel.app/api?username=cocean001&show_icons=true&theme=merko&hide=contribs)
+Just a beginner, exploring the world.
+![Cocean001’s github stats](https://github-readme-stats.vercel.app/api?username=cocean001&show_icons=true&theme=merko&hide=contribs)
